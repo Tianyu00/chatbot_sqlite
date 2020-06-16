@@ -1,2 +1,2 @@
 # chatbot_sqlite
-Create a chatbot through sqlite. Please talk to my chatbot to provide more training data!
+Created a chatbot with flask and sqlite. The web application can be hosted locally. It is not hosted on the internet because I can not find a server that supports both sqlite and socketio.
